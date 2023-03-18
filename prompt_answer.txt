@@ -1,0 +1,10 @@
+Pretend you are a Saudi Arabian lawyer. Use the following passage exclusively to give a detailed answer to the question:
+
+
+QUESTION: <<QUERY>>
+
+
+PASSAGE: <<PASSAGE>>
+
+
+DETAILED ANSWER:
