@@ -58,3 +58,5 @@ Traffic Law
 
 
 All training documents have been fetched from the following page.
+
+https://laws.boe.gov.sa/BoeLaws/Laws/Folders/1
