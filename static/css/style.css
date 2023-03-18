@@ -1,0 +1,45 @@
+  body {
+     color: white;
+      font-family: arial;
+       text-align: center;
+        background: url('../images/Background.jpg');
+         background-size: contain;
+          border:1px solid black;
+
+}
+#logo { width: 300px; }
+input {font-size: 20px; padding: 5px; border-radius: 5px;}
+#query{
+    width: 75%;
+ }
+input[type=submit] {
+    background: black;
+    color: white;
+    border: solid white 1px;
+}
+
+#ad{
+width:30%;
+}
+
+#results {
+    text-align: left;
+    width: 80%;
+    border: solid white 1px;
+    margin: 20px auto;
+    padding: 20px;
+    white-space: pre-line;
+    background: #cfcfcf82;
+    color: black;
+    border-radius: 20px;
+}
+
+h1 {
+    margin-left: 50px;
+}
+ul {
+    list-style-type: none;
+}
+li {
+    padding: 10px;
+}
